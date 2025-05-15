@@ -1,0 +1,6 @@
+@echo off
+echo Running simulation...
+simulation.exe
+echo.
+echo Simulation successful. Plotting Results...
+analysis.exe
